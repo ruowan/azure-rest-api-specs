@@ -2,6 +2,7 @@
   "swagger": "2.0",
   "info": {
     "title": "ContainerServiceClient",
+    "update": "ok",
     "description": "The Container Service Client.",
     "version": "2017-01-31"
   },

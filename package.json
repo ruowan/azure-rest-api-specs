@@ -15,6 +15,7 @@
     "@ts-common/commonmark-to-markdown": "^1.2.0",
     "@ts-common/fs": "0.2.0",
     "@ts-common/iterator": "^0.3.6",
+    "oav": "2.3.2",
     "@types/js-yaml": "^3.12.1",
     "@types/mocha": "^5.2.6",
     "@types/prettier": "^1.18.3",
